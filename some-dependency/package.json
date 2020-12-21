@@ -1,0 +1,7 @@
+{
+  "name": "some-dependency",
+  "version": "1.0.0",
+  "main": "index.js",
+  "module": "index.mjs",
+  "license": "CC0-1.0"
+}

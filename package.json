@@ -1,0 +1,10 @@
+{
+  "name": "nextjs-with-optional-chaining-bug",
+  "version": "1.0.0",
+  "scripts": {
+    "postinstall": "cd my-app && yarn",
+    "start": "cd my-app && yarn dev"
+  },
+  "license": "CC0-1.0",
+  "private": true
+}
