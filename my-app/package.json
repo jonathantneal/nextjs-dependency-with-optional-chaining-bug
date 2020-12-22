@@ -12,5 +12,8 @@
     "react": "17.0.1",
     "react-dom": "17.0.1",
     "some-dependency": "file:../some-dependency"
+  },
+  "resolutions": {
+    "webpack": "^5"
   }
 }
